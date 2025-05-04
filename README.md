@@ -5,8 +5,11 @@ RBiogateway is an R package designed to provide programmatic access to the BioGa
 Key Features
 
 R Interface: Seamless integration with BioGateway's API
+
 Gene Regulation Tools: Specialized functions for analyzing gene regulatory networks
+
 Python Parity: Implements equivalent functionality to the existing Python package
+
 Reproducible Research: Designed to fit into standard R bioinformatics workflows
 
 Installation
