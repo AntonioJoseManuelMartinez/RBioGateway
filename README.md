@@ -16,4 +16,4 @@ Installation
 
 Development Status
 
-This package is currently under development as part of a TFG in Biotechnology at the University of Murcia, supervised by Dr. Jesualdo Tomás Fernández Breis and Juan Mulero.
+This package is currently under development as part of a TFG in Biotechnology at the University of Murcia, supervised by Dr. Jesualdo Tomás Fernández Breis and Juan Mulero Hernández.
